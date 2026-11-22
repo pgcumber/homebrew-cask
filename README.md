@@ -1,3 +1,3 @@
-# homebrew-pgcumber
+# homebrew-cask
 
-Homebrew repository for [https://github.com/arkadiusjonczek/pgcumber](https://github.com/arkadiusjonczek/pgcumber)
+Homebrew cask repository for [https://github.com/arkadiusjonczek/pgcumber](https://github.com/arkadiusjonczek/pgcumber)
